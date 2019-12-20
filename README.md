@@ -19,8 +19,7 @@ https://github.com/skyloma/jinghua/blob/master/aptools.apk
 #### 3.打开菜单(右上角三点)->返回桌面,返回桌面,请不要结束程序,程序在后台运行
 #### 4.打开菜单(右上角三点)->关于我们, 如果试用多次后觉得本app不错,可以打赏
 
-演示视屏
-[https://www.bilibili.com/video/av79017905?spm_id_from=333.851.b_7265706f7274466972737432.6]
+演示视屏 
 
 链接: [https://pan.baidu.com/s/19q8-W2WXMI9vUsgIju_lUQ] 提取码: bv74
 
