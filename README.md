@@ -3,7 +3,8 @@
 ### 条件准备
 #### 1.Android手机，推荐华为能拍60fps视频的手机 
 #### 2.小米蓝牙手环(如MI1A),其他品牌未知 
-#### 3.本程序安装包
+#### 3.本程序安装包 
+[https://github.com/skyloma/jinghua/blob/master/aptools.apk]
 ### 如何使用
 #### 1.打开菜单(右上角三点)->我的设备
 ##### 打开通知监听
@@ -23,6 +24,6 @@
 
 链接: [https://pan.baidu.com/s/19q8-W2WXMI9vUsgIju_lUQ] 提取码: bv74
 
-![avatar](qr.png)
+
 
 ![avatar](qrcode.jpg)
