@@ -23,6 +23,6 @@ https://github.com/skyloma/jinghua/blob/master/aptools.apk
 
 链接: [https://pan.baidu.com/s/19q8-W2WXMI9vUsgIju_lUQ] 提取码: bv74
 
-
+https://raw.githubusercontent.com/skyloma/jinghua/master/aptools.apk
 
 ![avatar](qrcode.jpg)
