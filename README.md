@@ -4,9 +4,9 @@
 #### 1.Android手机，推荐华为能拍60fps视频的手机 
 #### 2.小米蓝牙手环(如MI1A),其他品牌未知 
 #### 3.本程序安装包 
-https://github.com/skyloma/jinghua/blob/master/aitools.apk
+https://fir.im/79m3
 #### 或者
-https://raw.githubusercontent.com/skyloma/jinghua/master/aitools.apk
+https://www.pgyer.com/LAFh 密码 123456 
 ### 如何使用
 #### 1.打开菜单(右上角三点)->我的设备
 ##### 打开通知监听
@@ -21,7 +21,6 @@ https://raw.githubusercontent.com/skyloma/jinghua/master/aitools.apk
 #### 3.打开菜单(右上角三点)->返回桌面,返回桌面,请不要结束程序,程序在后台运行
 #### 4.打开菜单(右上角三点)->关于我们, 如果试用多次后觉得本app不错,可以打赏
 
-演示视屏 
-
-百度网盘链接: [https://pan.baidu.com/s/19q8-W2WXMI9vUsgIju_lUQ] 提取码: bv74
+演示视屏正在录
+ 
  
